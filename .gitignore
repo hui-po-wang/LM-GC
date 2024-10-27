@@ -1,0 +1,9 @@
+*__pycache__*
+*txt
+*cache*
+*.DS_Store*
+tokenized_datasets/*
+exps/*
+probs/*
+.ipynb_checkpoints/
+tiny-imagenet-200/

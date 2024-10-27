@@ -1,0 +1,2 @@
+dataset: cifar10
+arch: VGG16
